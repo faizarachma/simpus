@@ -12,5 +12,5 @@ Data Engineer (Nama/NIM)  	: Erika Agung Satria  	 	  (20102100)
 Programmer (Nama/NIM) 	  	: Faiza Rachma 	 	 	        (20102110) 
 
 # Tampilan Website
-![Screenshot (1)](https://user-images.githubusercontent.com/77397413/149952784-c69bb81d-7d36-4c4d-83b8-91d8606aff68.png)
+
 
