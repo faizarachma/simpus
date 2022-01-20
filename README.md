@@ -1,3 +1,4 @@
+![Beranda](https://user-images.githubusercontent.com/77397413/150248397-a38b9c18-78e3-41cf-855b-5e1412544c37.png)
 # simpus
 Tugas Besar Basis Data
 Nama Aplikasi: Sistem Informasi Perpustakaan 
@@ -12,5 +13,4 @@ Data Engineer (Nama/NIM)  	: Erika Agung Satria  	 	  (20102100)
 Programmer (Nama/NIM) 	  	: Faiza Rachma 	 	 	        (20102110) 
 
 # Tampilan Website
-
-
+![login](https://user-images.githubusercontent.com/77397413/150248424-d792fd07-7e63-4c60-82cf-d9e9fd626851.png)
